@@ -1,13 +1,13 @@
 {
   "main.css": "/javascript-web-todo/static/css/main.78aae83b.chunk.css",
-  "main.js": "/javascript-web-todo/static/js/main.d44c94ff.chunk.js",
-  "main.js.map": "/javascript-web-todo/static/js/main.d44c94ff.chunk.js.map",
+  "main.js": "/javascript-web-todo/static/js/main.7e3dc189.chunk.js",
+  "main.js.map": "/javascript-web-todo/static/js/main.7e3dc189.chunk.js.map",
   "static/js/1.de1a52e0.chunk.js": "/javascript-web-todo/static/js/1.de1a52e0.chunk.js",
   "static/js/1.de1a52e0.chunk.js.map": "/javascript-web-todo/static/js/1.de1a52e0.chunk.js.map",
   "runtime~main.js": "/javascript-web-todo/static/js/runtime~main.47eae9cd.js",
   "runtime~main.js.map": "/javascript-web-todo/static/js/runtime~main.47eae9cd.js.map",
   "static/css/main.78aae83b.chunk.css.map": "/javascript-web-todo/static/css/main.78aae83b.chunk.css.map",
   "index.html": "/javascript-web-todo/index.html",
-  "precache-manifest.fa2c51452b37612d83d791e211b0105e.js": "/javascript-web-todo/precache-manifest.fa2c51452b37612d83d791e211b0105e.js",
+  "precache-manifest.713b97eaaaf143f840a7abe4d73ac84b.js": "/javascript-web-todo/precache-manifest.713b97eaaaf143f840a7abe4d73ac84b.js",
   "service-worker.js": "/javascript-web-todo/service-worker.js"
 }
